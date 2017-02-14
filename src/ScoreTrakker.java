@@ -4,7 +4,6 @@ public class ScoreTrakker {
 	private ArrayList<Student> Students;
 	
 	public ScoreTrakker() {
-		
 	}
 	
 	private void loadDataFromFile(String filename) {
